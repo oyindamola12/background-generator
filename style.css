@@ -1,0 +1,74 @@
+#gradient {
+    background: linear-gradient(to right, #79081c, #ff9e01);
+    text-transform: uppercase;
+    top: 15%;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+
+h1 {
+    font-family: 600 3.5em 'Raleway'sans-serif;
+    text-align: center;
+    letter-spacing: .5em;
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+
+
+}
+
+h2 {
+    color: white;
+    letter-spacing: 0.01em;
+    font-family: 900 1em 'Raleway'sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+h3{
+    color: #fff;
+}
+
+
+#inputs{
+    margin-top: 10em;
+}
+
+.color1 {
+    width: 5em;  
+    height: 5em;
+  
+   
+
+
+}
+
+.color2 {
+    width: 5em;  
+    height: 5em;
+   
+
+}
+
+.color3 {
+    width: 5em;  
+    height: 5em;
+   
+
+
+
+}
+
+.color4 {
+    width: 5em;  
+    height: 5em;
+   
+
+
+    
+}
